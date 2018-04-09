@@ -73,5 +73,5 @@ var addCat = function(cat, food, pic) {
 
 
 window.onload = function(){
-  addCat("Name: Mummy's Little Darling", 'Favourite Food: Dormice, little birds, assorted other innocents', '<img width="500" src="../hangover-237197_640.jpg">');
+  addCat("Name: Mummy's Little Darling", 'Favourite Food: Dormice, little birds, assorted other innocents', '<img width="300" src="../hangover-237197_640.jpg">');
 }

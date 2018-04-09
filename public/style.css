@@ -1,3 +1,14 @@
+body {
+  background-image: url("../alexandru-tudorache-17852-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  font-family: cursive;
+  font-size: 24px;
+  color: rgb(66,71,65);
+
+}
+
 .logo {
   width: 50px;
   height: 50px;
@@ -5,4 +16,20 @@
 
 .red-quote{
   color: red;
+}
+
+li {
+  list-style-type: none;
+  /* font-family: arial; */
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 54px;
+  color: rgb(66,71,65);
+}
+
+.cat {
+  margin-bottom: 50px;
+  justify-content: center;
 }
